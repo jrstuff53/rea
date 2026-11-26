@@ -106,11 +106,11 @@ On a phone, everything you tap often sits in the lower two thirds of the screen,
 
 **A trip screen, from top to bottom**
 
-1. Trip title and dates, large, with a back arrow on the left.
+1. A cover photo with the trip title, dates and the three headline numbers (days, places, kilometres) on a soft dark fade, a back arrow on the left, and a small save status on the right, such as "1 photo will upload later".
 2. The map, about one third of the screen tall, showing the route and pins.
-3. Three headline numbers in a row: days, places, kilometres (or miles).
-4. The entries as cards, grouped by day, newest first: one photo, place name, date, first two lines of text.
-5. A fixed bar at the bottom with 3 big icons with words under them: Trips, Map, Family.
+3. The first entry, starting on the opening screen so people see straight away that entries are the main content.
+4. The entries as cards under day headings ("Day 9 · Sunday 11 May"), newest first: one photo, place and time of day (not the date again), title, first two lines of text, and who wrote it with their initial in a small circle.
+5. A fixed bar at the bottom with 3 big icons with words under them: Trips, Globe (the 3D globe of every trip), Family.
 6. A large "+ Add an entry" pill button in the accent colour, bottom right, always visible, sitting clear above the bottom bar with words on it, not just an icon.
 
 **Spacing and shapes**
@@ -132,10 +132,10 @@ On a laptop or desktop, use the extra width to show the entries and the map side
 
 **A trip screen on a laptop**
 
-1. A slim bar across the top: the app's name on the left, Trips and Family in the middle, your name on the right. No Map tab is needed because the map is always on screen.
-2. A left column about 420 pixels wide: trip title, the three headline numbers, then the entry cards, scrolling.
+1. A slim bar across the top: the app's name, Trips and Family (the current one underlined), a search box for trips and entries, and your initial and name on the right. No Map tab is needed because the map is always on screen.
+2. A left column about 420 pixels wide: an "All trips › trip name" link to get back, a short cover photo strip, the trip title, the three headline numbers, then the entry cards under day headings, each with two lines of text and who wrote it.
 3. The map fills everything to the right and stays still while the list scrolls.
-4. Clicking a card moves the map to that place; clicking a pin highlights its card.
+4. Clicking a card opens the full entry in the left column (large photo, full text, more photos, "Back to trip" link) and highlights its pin on the map: larger, filled in the accent colour, with the place name. Every pin shows its place name where there is room. Clicking a pin opens its entry.
 5. "Add an entry" sits as a pill button at the top of the left column.
 
 **When the window is in between** (a tablet, or a narrow window)
